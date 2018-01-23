@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="41.7407mm" height="41.7407mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1592 1592"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#00CCFF;stroke-width:25.8243}
+    .fil3 {fill:none}
+    .fil2 {fill:#1BB7EA}
+    .fil1 {fill:#C5CED3}
+    .fil0 {fill:#F2F2F2}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2630898848832">
+   <g>
+    <path class="fil0" d="M575 673c0,35 26,64 57,64l327 0c32,0 58,-29 58,-64l0 -193 -442 0 0 193z"/>
+    <path class="fil0" d="M825 1144c0,35 26,64 57,64l289 0c31,0 57,-29 57,-64l0 -193 -403 0 0 193z"/>
+   </g>
+   <g>
+    <path class="fil1" d="M988 673c0,17 -13,32 -29,32l-327 0c-16,0 -29,-15 -29,-32l0 -193 -28 0 0 193c0,35 26,64 57,64l327 0c32,0 58,-29 58,-64l0 -193 -29 0 0 193z"/>
+    <path class="fil1" d="M1199 1144c0,18 -12,32 -28,32l-289 0c-16,0 -29,-14 -29,-32l0 -193 -28 0 0 193c0,35 26,64 57,64l289 0c31,0 57,-29 57,-64l0 -193 -29 0 0 193z"/>
+   </g>
+   <path class="fil0" d="M363 1144c0,35 26,64 58,64l288 0c32,0 58,-29 58,-64l0 -193 -404 0 0 193z"/>
+   <path class="fil1" d="M738 1144c0,18 -13,32 -29,32l-288 0c-16,0 -29,-14 -29,-32l0 -193 -29 0 0 193c0,35 26,64 58,64l288 0c32,0 58,-29 58,-64l0 -193 -29 0 0 193z"/>
+   <rect class="fil2" x="575" y="383" width="442.177" height="96.418"/>
+   <path class="fil1" d="M1017 785l-207 0 0 -48 -29 0 0 48 -206 0c-14,0 -24,12 -24,27l0 53 28 0 0 -48 433 0 0 48 29 0 0 -53c0,-15 -11,-27 -24,-27z"/>
+   <g>
+    <rect class="fil2" x="825" y="865" width="403.727" height="85.7044"/>
+    <rect class="fil2" x="363" y="865" width="403.727" height="85.7044"/>
+   </g>
+   <circle class="fil3 str0" cx="796" cy="796" r="783"/>
+  </g>
+ </g>
+</svg>
